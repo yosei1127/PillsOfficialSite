@@ -1,5 +1,11 @@
 import React from "react"
 
-export default function Home() {
-  return <div>Hello world!</div>
+const MainPage = () => {
+  return (
+    <div>
+    <h1>Hello world!</h1>
+    </div>
+  )
 }
+
+export default MainPage
