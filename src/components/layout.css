@@ -18,6 +18,13 @@ a {
 /* HEADER 
 -------------------------------------*/
 
+.icon {
+    margin: 100px;
+    text-align: center;
+    font-size: 50px;
+    color: #fff;
+}
+
 .navi {
     display: flex;
     justify-content: center;
