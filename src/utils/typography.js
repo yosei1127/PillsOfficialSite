@@ -2,18 +2,12 @@ import Typography from 'typography'
 
 const typography = new Typography({
     googleFonts: [{
-            name: 'Noto Sans JP',
-            styles: [
-                '500',
-                '700',
-                '900',
-            ],
-        },
-        {
-            name: 'Roboto',
-            styles: ['700'],
-        },
-    ],
+        name: 'Josefin Sans',
+        styles: [
+            'Thin 100',
+            'Bold 700 italic',
+        ],
+    }, ],
 })
 
 export default typography
