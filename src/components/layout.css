@@ -40,3 +40,17 @@ a {
 .navi a {
     color: #fff;
 }
+
+
+/* Pillcase
+-------------------------------------*/
+
+.pillCase {
+    margin-top: 200px;
+}
+
+.pillCase img {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
